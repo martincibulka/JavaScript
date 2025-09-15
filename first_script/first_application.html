@@ -1,10 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
 
-</body>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Prva stranka v JS</title>
+    </head>
+
+    <body style="background-color: #7cb3b3">
+        <H1 style="color: #f6d932">Testovacia stránka</H1>
+        <p id = "vysledok" style="color: crimson; font-size: 36px; text-align: center; font-family: 'Century Gothic'"></p>
+        <script>
+
+                let potvrdenie = confirm("Si spokojný s týmto kurzom?")
+
+                if (potvrdenie)
+                {document.getElementById("vysledok").innerHTML = "Si spokojný.";}
+                else {document.getElementById("vysledok").innerHTML = "To ma mrzí.";}
+
+            </script>
+    </body>
 </html>

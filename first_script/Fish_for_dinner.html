@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fish for dinner</title>
+</head>
+<body style="background: #30a9cf">
+    <h1>Fish for dinner</h1>
+
+    <p id = "ryby" style="text-align: center"></p>
+
+    <script>
+        let obsah = ""
+        let pocet = prompt("Koľko rýb chceš na večeru?")
+
+        for (let i = 0; i < pocet; i++) {obsah += `<img src = "fish.png" alt="ryba" width = "200">`}
+        document.getElementById("ryby").innerHTML = obsah;
+
+    </script>
+</body>
+</html>
