@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Arrays in JavaScript</title>
+	</head>
+
+	<body>
+		<script>
+
+			let movieTheater = [];
+
+			for (let i = 0; i < 5; i++) {
+				movieTheater[i] = [];
+				for (let j = 0; j < 5; j++) {
+					movieTheater[i][j] = 0; // filling the array with 0
+				}
+			}
+
+			movieTheater[2][2] = 1;
+
+			for (let i = 1; i < 4; i++) {
+				movieTheater[3][i] = 1;
+			}
+
+			for (let i = 0; i < 5; i++) {
+				movieTheater[4][i] = 1;
+			}
+
+			/*
+			let movieTheater = [
+			    [0, 0, 0, 0, 0],
+			    [0, 0, 0, 0, 0],
+			    [0, 0, 1, 0, 0],
+			    [0, 1, 1, 1, 0],
+			    [1, 1, 1, 1, 1]
+			];
+			*/
+
+			for (let i = 0; i < movieTheater.length; i++) {
+				for (let j = 0; j < movieTheater[i].length; j++) {
+					document.write("<td>"+ movieTheater[i][j] + "</td>");
+				}
+				document.write("</br>");
+			}
+		</script>
+	</body>
+</html>
