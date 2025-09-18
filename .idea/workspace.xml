@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772933c8-787a-4b8d-bcd9-f82c4391848c" name="Changes" comment="pridám tam aj obrázok rybky z it network">
+    <list default="true" id="772933c8-787a-4b8d-bcd9-f82c4391848c" name="Changes" comment="dalšie lekcie">
+      <change afterPath="$PROJECT_DIR$/kalkulacka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first_script/first_application.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_script/first_application.html" afterDir="false" />
     </list>
@@ -46,40 +47,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Fish_for_dinner.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.first_application.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.mala_nasobilka.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.movie_theater.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.switch.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PROGRAMOVANIE/itnetwork/JavaScripit&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Fish_for_dinner.html.executor": "Run",
+    "JavaScript Debug.first_application.html.executor": "Run",
+    "JavaScript Debug.kalkulacka.html.executor": "Run",
+    "JavaScript Debug.mala_nasobilka.html.executor": "Run",
+    "JavaScript Debug.movie_theater.html.executor": "Run",
+    "JavaScript Debug.switch.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/PROGRAMOVANIE/itnetwork/JavaScripit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PROGRAMOVANIE\itnetwork\JavaScripit" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.first_application.html">
+  <component name="RunManager" selected="JavaScript Debug.kalkulacka.html">
+    <configuration name="Fish_for_dinner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/Fish_for_dinner.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Fish_for_dinner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/Fish_for_dinner.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="first_application.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/first_application.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="first_application.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/first_application.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="kalkulacka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/kalkulacka.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mala_nasobilka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/mala_nasobilka.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="mala_nasobilka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/mala_nasobilka.html" useBuiltInWebServerPort="true">
@@ -88,8 +102,12 @@
     <configuration name="movie_theater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/movie_theater.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="movie_theater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/movie_theater.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.kalkulacka.html" />
         <item itemvalue="JavaScript Debug.first_application.html" />
         <item itemvalue="JavaScript Debug.movie_theater.html" />
         <item itemvalue="JavaScript Debug.Fish_for_dinner.html" />
@@ -116,7 +134,8 @@
       <workItem from="1757875440451" duration="701000" />
       <workItem from="1757938015408" duration="9275000" />
       <workItem from="1757960132198" duration="6209000" />
-      <workItem from="1758045896621" duration="7115000" />
+      <workItem from="1758045896621" duration="7479000" />
+      <workItem from="1758215787577" duration="3221000" />
     </task>
     <task id="LOCAL-00001" summary="Začíname s JS">
       <option name="closed" value="true" />
@@ -142,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757962552828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dalšie lekcie">
+      <option name="closed" value="true" />
+      <created>1758055310284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758055310284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +179,7 @@
     <MESSAGE value="Začíname s JS" />
     <MESSAGE value="Príklady v JS" />
     <MESSAGE value="pridám tam aj obrázok rybky z it network" />
-    <option name="LAST_COMMIT_MESSAGE" value="pridám tam aj obrázok rybky z it network" />
+    <MESSAGE value="dalšie lekcie" />
+    <option name="LAST_COMMIT_MESSAGE" value="dalšie lekcie" />
   </component>
 </project>
