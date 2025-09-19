@@ -10,21 +10,6 @@
         <H1 style="color: #f6d932; font-size: 40px; background-color: #30a9cf; max-width: fit-content; padding-left: 15px; padding-right: 15px; border-radius: 15px  "> Testovacia stránka </H1>
         <p id="obsahOdstavca" style="color: #edd3b5; text-align: center; font-size: 30px"></p>
         <script>
-            let vstupnyText = ""
-            let upravenyText = ""
-            let dlzkaVystupnehoTextu = 0
-
-            while (vstupnyText.length < 1) {vstupnyText = prompt("Napíš text");}
-
-            while (dlzkaVystupnehoTextu < 1) {dlzkaVystupnehoTextu = prompt("Aký dlhý má byť upravený text? Zadaj číslo!")}
-
-            if (vstupnyText.length < dlzkaVystupnehoTextu) {upravenyText = vstupnyText + ".".repeat(dlzkaVystupnehoTextu - vstupnyText.length)}
-            else if (vstupnyText.length > dlzkaVystupnehoTextu) {upravenyText = vstupnyText.slice(0, dlzkaVystupnehoTextu) + "..."}
-            else {upravenyText = vstupnyText}
-
-
-            document.getElementById("obsahOdstavca").innerHTML = `Text: ${vstupnyText} <br> Počet znakov výsledku: ${dlzkaVystupnehoTextu} <br> ${upravenyText}`
-
 
 
 

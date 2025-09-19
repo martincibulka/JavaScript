@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772933c8-787a-4b8d-bcd9-f82c4391848c" name="Changes" comment="dalšie lekcie">
-      <change afterPath="$PROJECT_DIR$/kalkulacka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor_tabuliek/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor_tabuliek/table-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor_tabuliek/table-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pekaren/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pekaren/pekaren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pekaren/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first_script/first_application.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_script/first_application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalkulacka.html" beforeDir="false" afterPath="$PROJECT_DIR$/kalkulacka.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,9 +61,11 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Fish_for_dinner.html.executor": "Run",
     "JavaScript Debug.first_application.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.kalkulacka.html.executor": "Run",
     "JavaScript Debug.mala_nasobilka.html.executor": "Run",
     "JavaScript Debug.movie_theater.html.executor": "Run",
+    "JavaScript Debug.pekaren.html.executor": "Run",
     "JavaScript Debug.switch.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,6 +74,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/PROGRAMOVANIE/itnetwork/JavaScripit",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,11 +88,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PROGRAMOVANIE\itnetwork\JavaScripit" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROGRAMOVANIE\itnetwork\JavaScripit\pekaren" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.kalkulacka.html">
-    <configuration name="Fish_for_dinner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/Fish_for_dinner.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Fish_for_dinner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/Fish_for_dinner.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -88,30 +100,30 @@
       <method v="2" />
     </configuration>
     <configuration name="first_application.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/first_script/first_application.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/editor_tabuliek/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="kalkulacka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/kalkulacka.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="mala_nasobilka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/mala_nasobilka.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="mala_nasobilka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/mala_nasobilka.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="movie_theater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/movie_theater.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="movie_theater.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/movie_theater.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pekaren.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScripit/pekaren/pekaren.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.pekaren.html" />
         <item itemvalue="JavaScript Debug.kalkulacka.html" />
         <item itemvalue="JavaScript Debug.first_application.html" />
         <item itemvalue="JavaScript Debug.movie_theater.html" />
-        <item itemvalue="JavaScript Debug.Fish_for_dinner.html" />
-        <item itemvalue="JavaScript Debug.mala_nasobilka.html" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +147,8 @@
       <workItem from="1757938015408" duration="9275000" />
       <workItem from="1757960132198" duration="6209000" />
       <workItem from="1758045896621" duration="7479000" />
-      <workItem from="1758215787577" duration="3221000" />
+      <workItem from="1758215787577" duration="8673000" />
+      <workItem from="1758302419899" duration="4784000" />
     </task>
     <task id="LOCAL-00001" summary="Začíname s JS">
       <option name="closed" value="true" />
@@ -169,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758055310284</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dalšie lekcie">
+      <option name="closed" value="true" />
+      <created>1758221507639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758221507639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

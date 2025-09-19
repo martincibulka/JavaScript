@@ -4,29 +4,13 @@
     <head>
         <meta charset="UTF-8">
         <title>Kalkulacka</title>
+        <script src="js/calculator.js" defer></script>  <!-- defer zabezpečí že sa js spustí až po načítaní celej stránky -->
     </head>
 
     <body style="text-align: center">
         <h1>Simple web calculator</h1>
         <input type="text" id="number1" size="5" /> + <input type="text" id="number2" size="5" /> = <input type="text" id="vysledok" size="5" />
         <button id="button">Počítaj!</button>
-        <script type="text/javascript">
-            let elementButton = document.getElementById("button");
-            let elementNumber1 = document.getElementById("number1");
-            let elementNumber2 = document.getElementById("number2");
-            let elemntVysledok = document.getElementById("vysledok");
-
-
-            function add() {
-                let number1 = parseFloat(elementNumber1.value);
-                let number2 = parseFloat(elementNumber2.value);
-                elemntVysledok.value = number1 + number2;
-            }
-
-            elementButton.onclick = add;
-
-
-        </script>
     </body>
 
 </html>
